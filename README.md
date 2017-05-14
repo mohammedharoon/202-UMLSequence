@@ -5,4 +5,4 @@ AspectJ – AspectJ is an extension for java programming language which provides
 Plantuml – Plantuml is a tool for generating UML diagrams. Using this tool, we can generate variety of diagrams like class, sequence, activity, use case etc. The dynamic analysis done by the aspectj will generate the messages and participants which will be fed as input to the plantuml for generating sequence diagram. 
 
 Steps To Run :
-java jar - <jarName>
+java jar - <<jarName>>
